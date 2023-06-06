@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "",
+  "homepage": "https://Ahmed9907.github.io/Reviews",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
